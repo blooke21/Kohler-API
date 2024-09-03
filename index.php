@@ -8,7 +8,7 @@ $headers = [
     'Cookie: PHPSESSID=67he5r63o0k1u6ctf9sc5mh13a',
 ];
 $data = [
-    'secretKey' => 'e51b3d6c007bde940fdd3d33b554b6ed',
+    'secretKey' => '',
 ];
 
 //api request to get bearer token, this will be used in future calls as authorization
